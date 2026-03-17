@@ -1,5 +1,3 @@
-# Tema1_Preprocesamiento_Evaluacion
-
 
 kevin alexander espinosa lopez
 
